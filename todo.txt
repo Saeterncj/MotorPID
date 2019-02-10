@@ -1,0 +1,3 @@
+Create a Release version
+Create a video demonstration
+Open an issue on Arduino Github

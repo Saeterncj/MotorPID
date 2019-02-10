@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For MotorPID Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MotorPID       KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setDeadBandOffset	KEYWORD2
+compute			KEYWORD2
+changeGains  	      	KEYWORD2
+changeSamplingTime	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
